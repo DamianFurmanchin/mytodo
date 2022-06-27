@@ -1,5 +1,8 @@
 # Mytodo
 
+![MyToDo App Part 1](/Users/vickibealman/Desktop/mytodo/src/assets/images/MyToDo-Part 1.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
 ## Development server
