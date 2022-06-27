@@ -1,6 +1,6 @@
 # Mytodo
 
-![MyToDo App Part 1](/Users/vickibealman/Desktop/mytodo/src/assets/images/MyToDo-Part 1.png)
+![MyToDo App Part 1](https://github.com/DrVicki/mytodo/blob/main/src/assets/images/MyToDo-Part%201.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
